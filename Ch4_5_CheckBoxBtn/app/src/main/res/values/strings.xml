@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ch4_5_CheckBoxBtn</string>
+    <string name="title">報名課程如下</string>
+    <string name="JAVA">JAVA國際認證</string>
+    <string name="CCNA">CCNA國際認證</string>
+    <string name="LINUX">LINUX國際認證</string>
+    <string name="sum">總和:</string>
+    <string name="btn">購買</string>
+</resources>

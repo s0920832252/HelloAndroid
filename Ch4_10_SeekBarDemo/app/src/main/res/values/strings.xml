@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ch4_10_SeekBarDemo</string>
+    <string name="title">SeekBar元件控制多彩畫面</string>
+    <string name="red">紅色- </string>
+    <string name="green">綠色- </string>
+    <string name="blue">藍色- </string>
+    <string name="start">啟動: </string>
+    <string name="end">結束: </string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ch4_11_ImageView</string>
+    <string name="title">MLB美國職業棒球</string>
+    <string name="blue_bird">藍鳥隊</string>
+    <string name="giant">巨人隊</string>
+    <string name="red_sox">紅襪隊</string>
+</resources>

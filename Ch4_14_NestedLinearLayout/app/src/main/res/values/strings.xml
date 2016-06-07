@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ch4_14_NestedLinearLayout</string>
+    <string name="btn">教士隊</string>
+    <string name="btn2">洋基隊</string>
+    <string name="btn3">雙城隊</string>
+    <string name="btn4">水手隊</string>
+    <string name="mb5">聖地牙哥教士</string>
+    <string name="mb5_1">教士隊球員很會傳教士體位,是箇中高手!</string>
+    <string name="mb6">紐約洋基</string>
+    <string name="mb6_1">有錢人球隊,成員全隊都是有錢人子弟,公子哥!</string>
+    <string name="mb7">明尼蘇達雙城</string>
+    <string name="mb7_1">有看過雙城奇謀嗎??? 對!!就是魔戒!!!熱狗拉使~</string>
+    <string name="mb8">西雅圖水手</string>
+    <string name="mb8_1">大力水手普派最愛吃菠菜~~~</string>
+    <string name="tv">球隊介紹:</string>
+    <string name="tv2">球隊資訊</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCick</string>
+    <string name="title">螢幕顯示區域</string>
+    <string name="btn1">兄弟象!</string>
+    <string name="btn2">統一獅</string>
+    <string name="btn3">清除</string>
+</resources>

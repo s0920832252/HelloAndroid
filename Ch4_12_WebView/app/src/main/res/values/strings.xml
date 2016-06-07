@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ch4_12_WebView</string>
+    <string name="btn">確定</string>
+    <string name="google_Address">https://www.google.com.tw</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ch4_6_RadioButton</string>
+    <string name="title">購買蛋糕如下:</string>
+    <string name="title2">適用折扣:</string>
+    <string name="title3">購買訊息顯示區:</string>
+    <string name="cake">濃情巧克</string>
+    <string name="cake2">提拉米蘇</string>
+    <string name="cake3">波士頓派</string>
+    <string name="RadioBtn">7折(玉靈卡)</string>
+    <string name="RadioBtn2">8折(鈦金卡)</string>
+    <string name="RadioBtn3">9折(白金卡)</string>
+    <string name="button">購買</string>
+
+    <string name="dollar">元</string>
+    <string name="sum">消費總額:</string>
+    <string name="discount">折扣:</string>
+    <string name="disSum">折扣後總和:</string>
+</resources>

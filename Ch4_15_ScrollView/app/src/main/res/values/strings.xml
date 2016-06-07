@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ch4_15_ScrollView</string>
+    <string name="btn">按鈕 </string>
+    <string name="et">輸入文字 </string>
+</resources>

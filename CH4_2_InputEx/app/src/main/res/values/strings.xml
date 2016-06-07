@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CH4_2_InputEx</string>
+    <string name="name">姓名: </string>
+    <string name="id">身分證: </string>
+    <string name="phone">手機號碼</string>
+    <string name="ncth">電機系</string>
+    <string name="nctu">資工系</string>
+    <string name="com">資通系</string>
+    <string name="submit">送出</string>
+    <string name="reset">重設</string>
+    <string name="exit">離開</string>
+    <string name="title">EditText的事件處理</string>
+</resources>

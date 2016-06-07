@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ch4_9_SeekBar</string>
+    <string name="title">調整SeekBar改變背景亮度</string>
+    <string name="one">1. </string>
+    <string name="two">2. </string>
+    <string name="three">3. </string>
+    <string name="start">啟動</string>
+    <string name="OnStart">OnStartTrackingTouch()方法,progress = </string>
+    <string name="OnProgress">OnProgressChanged()方法,progress = </string>
+    <string name="OnStop">OnStopTrackingTouch()方法,progress = </string>
+</resources>

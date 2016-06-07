@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CH4.1EditText</string>
+    <string name="name">姓名: </string>
+    <string name="id">身分證: </string>
+    <string name="phone">手機號碼</string>
+</resources>
